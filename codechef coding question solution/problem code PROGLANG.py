@@ -29,4 +29,7 @@ while(tc):
 # 2. If A2 is equal to A or B, then check if B2 is equal to A or B. If yes, then count=2. Else count=0.
 # 3. If A1 and A2 are not equal to A or B, then check if B1 and B2 are equal to A or B. If yes, then count=2. Else count=0.
 # 4. If A1 and A2 are not equal to A or B, then check if B1 and B2 are equal to A or B. If yes, then count=2. Else count=0.
-# 5. If A1 and A2 are not equal to A or B, then check if B1 and B2 are equal to A or B. If
+# 5. If A1 and A2 are not equal to A or B, then check if B1 and B2 are equal to A or B.
+
+
+#follow me for such more such updates and solutions

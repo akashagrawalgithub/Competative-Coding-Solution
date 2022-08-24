@@ -27,3 +27,7 @@ while(tc):
 # 5. If the element is 0, it checks if the corresponding element in the array is less than the current minimum value.
 # 6. If yes, then it updates the minimum value to the corresponding element in the array.
 # 7. Finally, it prints the minimum value.
+
+
+
+#follow me for such more such updates and solutions
